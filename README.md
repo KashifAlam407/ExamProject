@@ -78,7 +78,7 @@ Contributions are welcome! Please follow these steps:
 
 ## 📬 Contact
 
-**Kashif Alam** – Robotics Engineer & Programmer  
+**Md Kashif Alam** – Robotics Engineer & Programmer  
 GitHub: https://github.com/KashifAlam407  
 YouTube: https://www.youtube.com/@electroboticsai  
 Instagram: https://instagram.com/kashifalam0407
