@@ -7,6 +7,7 @@ This repository showcases a web-based examination platform designed to facilitat
 
 ## 📁 Project Structure
 
+```text
 ExamProject/
 ├── public/
 │ └── index.html
@@ -19,6 +20,7 @@ ExamProject/
 ├── package.json
 ├── package-lock.json
 └── README.md
+```
 
 ## 🚀 Features
 
